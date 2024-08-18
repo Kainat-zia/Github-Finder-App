@@ -1,1 +1,1 @@
-# Github-Finder-App
+# GitHub-Finder
